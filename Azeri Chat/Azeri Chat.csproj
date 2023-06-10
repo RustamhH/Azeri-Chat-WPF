@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Azeri_Chat</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icons\menu vertical.png" />
+    <None Remove="icons\pfp.png" />
+    <None Remove="icons\send.png" />
+    <None Remove="icons\title icon.png" />
+    <None Remove="icons\white search icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icons\menu vertical.png" />
+    <Resource Include="icons\pfp.png" />
+    <Resource Include="icons\send.png" />
+    <Resource Include="icons\title icon.png" />
+    <Resource Include="icons\white search icon.png" />
+  </ItemGroup>
+
+</Project>

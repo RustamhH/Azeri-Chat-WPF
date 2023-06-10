@@ -1,0 +1,21 @@
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\bin\Debug\net6.0-windows\Azeri Chat.exe
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\bin\Debug\net6.0-windows\Azeri Chat.deps.json
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\bin\Debug\net6.0-windows\Azeri Chat.runtimeconfig.json
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\bin\Debug\net6.0-windows\Azeri Chat.dll
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\bin\Debug\net6.0-windows\Azeri Chat.pdb
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\Azeri Chat.csproj.AssemblyReference.cache
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\App.g.cs
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\Azeri Chat_MarkupCompile.cache
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\Azeri Chat_MarkupCompile.lref
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\MainWindow.baml
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\Azeri Chat.g.resources
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\Azeri Chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\Azeri Chat.AssemblyInfoInputs.cache
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\Azeri Chat.AssemblyInfo.cs
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\Azeri Chat.csproj.CoreCompileInputs.cache
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\Azeri Chat.dll
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\refint\Azeri Chat.dll
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\Azeri Chat.pdb
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\Azeri Chat.genruntimeconfig.cache
+D:\WinForm & WPF\Azeri Chat\Azeri Chat\obj\Debug\net6.0-windows\ref\Azeri Chat.dll
