@@ -25,6 +25,10 @@ namespace Azeri_Chat
             InitializeComponent();
         }
 
-        
+        private void SendMessage()
+        {
+            ListBoxItem listBoxItem = new ListBoxItem();
+            
+        }
     }
 }
