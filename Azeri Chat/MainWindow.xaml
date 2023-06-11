@@ -19,7 +19,7 @@
                 <Border Grid.Row="2" BorderBrush="LightGray" BorderThickness="1" CornerRadius="40">
                     <WrapPanel VerticalAlignment="Center">
                         <TextBox Background="Transparent" Foreground="Gray" FontSize="15" BorderBrush="Transparent" Width="285" Margin="5 5 0 0" Text="Send a message"/>
-                        <Button Width="30" Background="Transparent" BorderBrush="Transparent" Margin="-5 3 0 0">
+                        <Button Name="SendButton" Width="30" Background="Transparent" BorderBrush="Transparent" Margin="-5 3 0 0">
                             <Button.Resources>
                                 <Style TargetType="Border">
                                     <Setter Property="CornerRadius" Value="25"/>
@@ -34,12 +34,12 @@
                     <StackPanel>
 
                         <TextBlock Text="Azeri Chat" FontSize="25" Foreground="White" FontWeight="Bold" HorizontalAlignment="Center" Margin="0 0 0 5"></TextBlock>
-                        <Line Stroke="Gray" X1="333" Margin="0 0 0 10" ></Line>
+                        <Line Stroke="Gray" X1="333" Margin="0 12 0 10" ></Line>
                         
                         <WrapPanel Grid.Row="0" VerticalAlignment="Center">
                             <Image Source="icons/pfp.png" Width="50" Height="30"></Image>
-                            <TextBlock Text="Donny Hopkins" FontSize="15" Foreground="White" FontWeight="Bold" Margin="10 5 0 0"></TextBlock>
-                            <Image Source="icons/white search icon.png" Width="50" Height="25" Margin="60 0 0 0"></Image>
+                            <TextBlock Text="William Wiles" FontSize="15" Foreground="White" FontWeight="Bold" Margin="10 5 0 0"></TextBlock>
+                            <Image Source="icons/white search icon.png" Width="50" Height="25" Margin="72 0 0 0"></Image>
                             <Image Source="icons/menu vertical.png" Width="50" Height="25" Margin="0 0 0 0"></Image>
                         </WrapPanel>
                         
@@ -47,7 +47,7 @@
                     
                 </Border>
 
-                <ListBox Grid.Row="1" Background="Transparent">
+                <ListBox Name="Messages" Grid.Row="1" Background="Transparent">
                     <ListBoxItem>
                         <StackPanel>
                             <Border Width="200" Background="Gray" CornerRadius="10" Height="25">
@@ -92,8 +92,8 @@
 
                         </StackPanel>
                     </ListBoxItem>
-                    
-                    
+
+
                     <ListBoxItem HorizontalAlignment="Right">
                         <StackPanel>
                             <Border Width="200" Background="#20C997" CornerRadius="10" Height="25">
@@ -103,9 +103,7 @@
 
                         </StackPanel>
                     </ListBoxItem>
-
-
-
+                    
                 </ListBox>
                 
 
